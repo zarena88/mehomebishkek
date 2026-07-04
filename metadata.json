@@ -1,0 +1,6 @@
+{
+  "name": "My Home Bishkek",
+  "description": "Bishkek'tegi zamandash kyymylsyz mulk agentstigi. Sovremennoe agentstvo nedvizhimosti v Bishkeke. Real estate agency with AI Assistant in Bishkek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
